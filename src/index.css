@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.grid-item {
+  padding: 2em;
+  flex-basis: 50%;
+}
+
+button {
+  
+}
